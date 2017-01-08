@@ -8,6 +8,6 @@
 3_work_rest_all.ipynb 观察并统计全北京市用户的职住分离情况  
 3_work_rest_wuhuan.ipynb 观察并统计北京五环内用户的职住分离情况  
 3_work_rest_week.ipynb 观察并统计北京五环内用户凌晨所在位置从周一到周日的变化  
-4_DBSCAN_test.ipynb DBSCAN算法测试代码  
-4_Kmeans_test.ipynb Kmeans算法测试代码  
+4_DBSCAN_test.ipynb DBSCAN算法测试代码  
+4_Kmeans_test.ipynb Kmeans算法测试代码  
 4_User_movement.ipynb 绘制用户时移图以及观测某时段用户距离质心的平均距离
